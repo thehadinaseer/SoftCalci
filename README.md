@@ -1,7 +1,7 @@
 # 🧮 Soft Scientific Calculator
 
 ## 🌐 Preview
-[Live Preview](https://thehadinaseer.github.io/softcalci)
+[Live Preview](https://thehadinaseer.github.io/SoftCalci)
 
 ## 📜 Description
 The Soft Scientific Calculator is a versatile and user-friendly tool designed to perform a wide range of mathematical calculations with ease. Featuring a sleek and intuitive interface, this calculator supports various scientific functions, making it an essential tool for students, professionals, and anyone with a love for numbers.
